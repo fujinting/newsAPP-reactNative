@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@react-native-community/viewpager": "^4.0.0"
+  }
+}
