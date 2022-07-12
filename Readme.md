@@ -47,7 +47,6 @@ typora-root-url: readme_img
 
 
 
-**想了解更多此APP功能，[请点击](https://www.bilibili.com/video/BV1YK411p7Uw)，或B站搜索  BV1YK411p7Uw。**
 
 
 
