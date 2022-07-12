@@ -57,11 +57,11 @@ typora-root-url: readme_img
 
 
 
-**1. 请确保您已安装reactnative开发环境(安装yarn)！！！！并且有稳定的网络(科学上网)。**
+**1. 请确保您已安装reactnative开发环境(安装yarn) 并且有稳定的网络(科学上网)。**
 
 **2. 请确保您已经安装mongoDB数据库！**
 
-**3. 请确保您已经安装webpack运行时环境 及npm 及nodemon!**
+**3. 请确保您已经安装webpack运行时环境 及npm**
 
 **4. 分别在 admin,newsapp,server执行命令(确保有稳定的网络)  	**
 
@@ -96,6 +96,6 @@ yarn android
 #### 其他
 
 1. 想了解更多内容，请联系	微信：13287210596
-2. 如有问题也请联系本人 或 b站搜索:狗廷呀 或 直接github发出提问
+2. 如有问题也请联系本人 或 直接github发出提问
 3. github更多项目请点击/搜索：[https://github.com/fujinting?tab=repositories](https://github.com/fujinting?tab=repositories)
 
